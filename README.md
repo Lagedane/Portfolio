@@ -11,4 +11,5 @@
 ) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Link to Portfolio
-🔗 [Portfolio Website](https://portfolio-university-project-web-design.vercel.app)
+🔗 [with Vercel](https://portfolio-university-project-web-design.vercel.app)
+🔗 [with Azure](https://jolly-river-060bc3400.5.azurestaticapps.net/)
